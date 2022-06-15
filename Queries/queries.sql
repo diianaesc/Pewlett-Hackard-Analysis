@@ -187,6 +187,7 @@ WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 
 SELECT * FROM emp_info;
 SELECT * FROM current_emp;
+
 -- Management: A list of managers for each department: department number, name, and the manager's employee number, last name, first name, and the starting and ending employment dates
 SELECT  dm.dept_no,
         d.dept_name,
