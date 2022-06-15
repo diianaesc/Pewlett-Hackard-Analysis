@@ -5,7 +5,7 @@ The purpose of the analysis is to determine the number of retiring employees per
 To determine the number of retiring employees per title the following queries were created: 
 1. Retrive employees names, titles and filter by birth date (January 1, 1952 and December 31, 1955)
 2. Filter by current employees 
-3. Remove duplicate rows for employees with multiple titles throughout their carrer and only retrive their most recent title 
+3. Remove duplicate rows for employees with multiple titles throughout their careers and only retrive their most recent title 
 
 To identify employees who are eligible to participate in a mentorship program the following query was created
 1. Group current employees that were born between January 1, 1965 and December 31, 1965 
