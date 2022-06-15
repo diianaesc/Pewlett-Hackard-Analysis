@@ -30,4 +30,11 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 Using our query above there is not enough employees ready to mentor new associates. However, to increase the number of employees HR can expand the birth_date filter to include younger employees and not just those born in 1965. 
-Also it would be helpful to categorize elegible employees by year, department and title to determine when employees are expected to be eligible for the mentorship program, their department of expertise as well as the titles they have had throughout their career 
+Also it would be helpful to categorize elegible employees by year, department and title to determine when employees are expected to be eligible for the mentorship program, their department of expertise as well as their titles
+
+Example of eligible employess for the mentorship program by title and department:
+
+![Screen Shot 2022-06-15 at 4 54 01 PM](https://user-images.githubusercontent.com/104380112/173927207-287d2c00-f6bc-445e-8465-5b9c1081dc26.png)
+![Screen Shot 2022-06-15 at 5 05 12 PM](https://user-images.githubusercontent.com/104380112/173929802-0071f3f7-f185-43f9-8a9c-18790d5ae1e0.png)
+
+
